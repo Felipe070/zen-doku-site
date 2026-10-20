@@ -1,0 +1,22 @@
+Política de privacidad de Zen-Doku
+
+Responsable: PraviGames. Vigente desde el 19 de octubre de 2026. Describe la versión 0.4.2.
+
+Datos del juego
+Zen-Doku guarda en tu dispositivo tu nombre o apodo, preferencias, partida y notas, estadísticas, historial, retos diarios, logros, puntos y objetos. Se utilizan para ofrecer el juego, guardar tu progreso y personalizarlo. El apodo puede ser ficticio. No crea una cuenta en línea.
+
+Conexiones y terceros
+Esta versión no incluye anuncios, pagos con dinero real, analítica, identificadores publicitarios ni seguimiento. No transmite el progreso a servidores de PraviGames. No solicita acceso a Internet, contactos, ubicación, cámara ni micrófono. Google Play puede tratar información de instalación, actualizaciones y diagnósticos conforme a sus propias condiciones; eso no implica que el juego envíe tu apodo o tus partidas al desarrollador.
+
+Copias manuales y del sistema
+Podés exportar una copia desde Ajustes y elegir dónde guardarla mediante el selector de documentos de Android. Incluye el perfil y el progreso y no está cifrada por el juego. Compartila solo con personas de confianza. Si elegís un proveedor en la nube, ese proveedor gestiona el archivo según sus condiciones. La app no envía automáticamente esa copia a PraviGames. Restaurar una copia reemplaza los datos locales tras tu confirmación.
+Android también puede respaldar o transferir datos según la configuración del dispositivo y del proveedor del sistema. Esa recuperación no está garantizada.
+
+Conservación y eliminación
+El progreso se conserva localmente hasta que lo reemplaces o borres. Podés eliminar todos los datos de esta instalación desde Ajustes de Android, Aplicaciones, Zen-Doku, Almacenamiento, Borrar datos; los nombres de estas opciones varían según el dispositivo. Desinstalar normalmente borra los datos locales. Ninguna de esas acciones elimina por sí sola los archivos exportados ni las copias del sistema o de proveedores en la nube: gestioná su eliminación desde esos servicios. No existe una cuenta remota de Zen-Doku que debas cancelar.
+
+Soporte
+Si nos contactás, usaremos el mensaje y los datos que decidas enviar para responder tu consulta. No envíes contraseñas ni copias de progreso salvo que sean necesarias para resolver un problema. No uses canales públicos para compartir información privada. Contacto de soporte y privacidad: soportezendoku@gmail.com. Conservamos la correspondencia mientras sea necesaria para atender la consulta y gestionar su seguimiento; podés solicitar su eliminación mediante ese mismo correo, salvo las obligaciones legales aplicables.
+
+Cambios futuros
+Esta política se mantiene en una dirección estable y se actualiza cuando cambia el tratamiento de datos. La fecha y versión permiten identificar el texto aplicable. Si se incorporan anuncios, pagos o servicios en línea, se actualizarán la política y las declaraciones de Google Play antes de distribuir esas funciones, y se solicitará consentimiento cuando corresponda.
