@@ -1,12 +1,15 @@
 Política de privacidad de Zen-Doku
 
-Responsable: PraviGames. Vigente desde el 19 de octubre de 2026. Describe la versión 0.4.2.
+Responsable: PraviGames. Vigente desde el 21 de octubre de 2026. Describe la versión 0.4.3.
 
 Datos del juego
 Zen-Doku guarda en tu dispositivo tu nombre o apodo, preferencias, partida y notas, estadísticas, historial, retos diarios, logros, puntos y objetos. Se utilizan para ofrecer el juego, guardar tu progreso y personalizarlo. El apodo puede ser ficticio. No crea una cuenta en línea.
 
 Conexiones y terceros
 Esta versión no incluye anuncios, pagos con dinero real, analítica, identificadores publicitarios ni seguimiento. No transmite el progreso a servidores de PraviGames. No solicita acceso a Internet, contactos, ubicación, cámara ni micrófono. Google Play puede tratar información de instalación, actualizaciones y diagnósticos conforme a sus propias condiciones; eso no implica que el juego envíe tu apodo o tus partidas al desarrollador.
+
+Actualizaciones de Google Play
+El juego utiliza la biblioteca oficial de actualizaciones de Google Play. Play Store procesa metadatos del dispositivo, la versión de la app y los módulos instalados para comprobar si hay actualizaciones y su tamaño. Según Google, esos datos se cifran, no se transfieren a terceros y se eliminan tras un período de conservación establecido por Google. PraviGames no recibe esos metadatos ni sube tu partida, apodo o inventario mediante esta función. Podés posponer las actualizaciones opcionales; una actualización crítica detectada puede ser necesaria para continuar jugando. El proceso de instalación lo gestiona Google Play.
 
 Copias manuales y del sistema
 Podés exportar una copia desde Ajustes y elegir dónde guardarla mediante el selector de documentos de Android. Incluye el perfil y el progreso y no está cifrada por el juego. Compartila solo con personas de confianza. Si elegís un proveedor en la nube, ese proveedor gestiona el archivo según sus condiciones. La app no envía automáticamente esa copia a PraviGames. Restaurar una copia reemplaza los datos locales tras tu confirmación.
