@@ -32,3 +32,6 @@ Google Play procesa metadatos técnicos para instalar y actualizar la app. Las a
 
 Soporte y cambios
 Usamos los mensajes y datos que decidas enviar para responder consultas; podés pedir su eliminación por el mismo correo, salvo obligaciones aplicables. No compartas contraseñas ni archivos de progreso en canales públicos. Publicamos esta política y las instrucciones de eliminación en https://felipe070.github.io/zen-doku-site/privacy/ y https://felipe070.github.io/zen-doku-site/delete-account/. La política se actualizará cuando cambie el tratamiento de datos.
+
+Público y protección publicitaria
+Zen-doku se dirige a personas de 13 años en adelante. No pedimos fecha de nacimiento. Aplicamos a todos los jugadores el tratamiento publicitario más restrictivo por edad, también a los adultos: anuncios sin personalización por intereses, clasificación máxima de contenido general y solicitudes UMP marcadas como menores de la edad de consentimiento. Por este motivo, el formulario de consentimiento publicitario puede no aparecer. Esto no elimina todo el tratamiento técnico de datos descrito en esta política.
